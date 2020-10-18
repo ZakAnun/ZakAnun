@@ -1,6 +1,6 @@
 ### A Android Developer 👋
 
-!(self area)[https://www.zakli.cn/]
+![self area](https://www.zakli.cn/)
 
 <!--
 **ZakAnun/ZakAnun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
