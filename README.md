@@ -2,7 +2,7 @@
 - 正在了解 jvm、c++
 - [个人博客](https://www.zakli.cn/)
 - [掘金地址](https://juejin.im/user/2612095356509565/posts)
-- 邮箱: linhenji@163.com     
+- 邮箱: linhenji@163.com      
 
 <!--
 **ZakAnun/ZakAnun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
