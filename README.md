@@ -3,10 +3,9 @@
 - [掘金地址](https://juejin.im/user/2612095356509565/posts)
 - 联系我: linhenji@163.com                         
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakAnun&layout=compact&theme=tokyonight)](https://github.com/ZakAnun/ZakAnun)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=ZakAnun&show_icons=true&theme=tokyonight)](https://github.com/ZakAnun/ZakAnun)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakAnun&layout=compact&theme=tokyonight)](https://github.com/ZakAnun/ZakAnun)
 <!--
 **ZakAnun/ZakAnun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
