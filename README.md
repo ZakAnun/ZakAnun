@@ -1,5 +1,5 @@
 - [个人博客](https://www.zakli.cn/)  
-- [掘金地址](https://juejin.im/user/2612095356509565/posts)   
+- [掘金地址](https://juejin.im/user/2612095356509565/posts)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakAnun&layout=compact&theme=tokyonight)](https://github.com/ZakAnun/ZakAnun)
